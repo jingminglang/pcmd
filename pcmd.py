@@ -3,7 +3,7 @@
 import getpass
 import paramiko
 import sys
-from debug import __print
+#from debug import __print
 import threading
 import signal
 import thread
